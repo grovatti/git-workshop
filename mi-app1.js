@@ -3,6 +3,9 @@ var nombre = 'Juan Jose';
 var nombre = 'Juan Jose Rodriguez'
 //console.log(nombre);  //daría como resultado Juan Jose Rodriguez
 
-//cambio
+//feature
 let nombre1 = 'Juan';
 console.log(nombre1);
+
+//release
+//plsql rules
